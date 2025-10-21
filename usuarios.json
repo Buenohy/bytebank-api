@@ -1,1 +1,20 @@
-{"usuarios":[{"id":1,"email":"neilton@alura.com","senha":"123456","nome":"Neilton Seguins"},{"id":2,"email":"gabriel@alura.com","senha":"123456","nome":"Gabriel Bueno Hygino"}]}
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "email": "neilton@alura.com",
+      "senha": "123456",
+      "nome": "Neilton Seguins"
+    },
+    {
+      "id": 2,
+      "email": "gabriel@alura.com",
+      "senha": "123456",
+      "nome": "Gabriel Bueno Hygino"
+    },
+    { "id": 3, "email": "", "senha": "456789", "nome": "gui@email.com" },
+    { "id": 4, "email": "", "senha": "456789", "nome": "gui@email.com" },
+    { "id": 5, "email": "", "senha": "456789", "nome": "gui@email.com" },
+    { "id": 6, "email": "", "senha": "456789", "nome": "gui@email.com" }
+  ]
+}
